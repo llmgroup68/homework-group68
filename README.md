@@ -15,6 +15,8 @@ Project1: implement the naïve birthday attack of reduced SM3
 
 
 1：定义了一些辅助宏和函数，如左循环移位、反转四字节整型字节序等。
+
+
 <img width="471" alt="image" src="https://github.com/llmgroup68/homework-group68/assets/138642474/b31cfa90-c62d-4611-878c-3abe86993262">
 
 2：定义了SM3算法中用到的常量和函数，如T函数、FF函数、GG函数和P0、P1函数等。
